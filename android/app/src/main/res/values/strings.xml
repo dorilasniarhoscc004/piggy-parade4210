@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Piggy Parade</string>
+
+    <string name="app_title">PIGGY PARADE</string>
+    <string name="splash_subtitle">THREE POTS. ONE PARADE.</string>
+    <string name="splash_loading">LOADING THE PARADE</string>
+
+    <string name="play">PLAY</string>
+    <string name="sort_again">SORT AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="got_it">GOT IT</string>
+    <string name="resume">RESUME</string>
+    <string name="quit_round">QUIT ROUND</string>
+    <string name="claim">CLAIM</string>
+    <string name="claimed">CLAIMED</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="reset">RESET</string>
+    <string name="cancel">CANCEL</string>
+
+    <string name="menu_tagline">SORT EVERY COIN INTO ITS OWN POT</string>
+    <string name="menu_hint">TAP THE POT THAT MATCHES THE COIN</string>
+    <string name="disclaimer">FOR ENTERTAINMENT ONLY · FICTIONAL POINTS, NO CASH PRIZES</string>
+
+    <string name="tile_parade_map">PARADE MAP</string>
+    <string name="tile_daily_pots">DAILY POTS</string>
+    <string name="tile_charm_shelf">CHARM SHELF</string>
+    <string name="tile_how_it_works">HOW IT WORKS</string>
+
+    <string name="pot_gold">GOLD</string>
+    <string name="pot_clay">CLAY</string>
+    <string name="pot_leaf">LEAF</string>
+
+    <string name="stat_best">BEST</string>
+    <string name="stat_stage">STAGE</string>
+    <string name="stat_charms">CHARMS</string>
+    <string name="stat_score">SCORE</string>
+    <string name="stat_streak">STREAK</string>
+    <string name="stat_coins">COINS</string>
+    <string name="stat_runs">RUNS</string>
+    <string name="stat_days">DAYS IN A ROW</string>
+
+    <string name="value_fraction">%1$d/%2$d</string>
+    <string name="game_header">STAGE %1$d · COIN %2$d/%3$d</string>
+    <string name="stage_of">STAGE %1$d OF %2$d</string>
+    <string name="stage_cleared_banner">STAGE %1$d CLEARED</string>
+    <string name="get_ready">GET READY</string>
+    <string name="paused">PAUSED</string>
+
+    <string name="parade_over">PARADE OVER</string>
+    <string name="stage_cleared">STAGE CLEARED</string>
+    <string name="new_best">NEW BEST</string>
+    <string name="coins_sorted">YOU SORTED %1$d COINS</string>
+    <string name="charm_unlocked">CHARM UNLOCKED</string>
+    <string name="charm_on_shelf">CHARM %1$d OF %2$d ON THE SHELF</string>
+
+    <string name="panel_parade_map">PARADE MAP</string>
+    <string name="panel_daily_pots">DAILY POTS</string>
+    <string name="panel_charm_shelf">CHARM SHELF</string>
+    <string name="panel_how_it_works">HOW IT WORKS</string>
+    <string name="panel_profile">KEEPER PROFILE</string>
+
+    <string name="how_step_one">A COIN ROLLS OFF THE PARADE FLOAT</string>
+    <string name="how_step_one_body">Every coin carries one of three pot colours and tumbles down the lane on its own.</string>
+    <string name="how_step_two">TAP THE POT OF THE SAME COLOUR</string>
+    <string name="how_step_two_body">Hit the matching pot before the coin reaches the street. A wrong pot costs you a piggy.</string>
+    <string name="how_step_three">TEN COINS CLEAR A STAGE</string>
+    <string name="how_step_three_body">Each cleared stage unlocks a charm for the shelf and speeds the parade up a notch.</string>
+
+    <string name="stage_speed">%1$d MS PER STEP</string>
+    <string name="stage_locked">LOCKED</string>
+    <string name="stage_current">IN PROGRESS</string>
+    <string name="stage_done">CLEARED</string>
+
+    <string name="goal_coins">SORT %1$d COINS</string>
+    <string name="goal_stages">CLEAR %1$d STAGES</string>
+    <string name="goal_streak">REACH A STREAK OF %1$d</string>
+    <string name="goal_reward">REWARD %1$d POINTS</string>
+    <string name="goals_reset">RESETS AT MIDNIGHT</string>
+
+    <string name="charms_counter">CHARMS %1$d / %2$d</string>
+    <string name="charm_locked_hint">CLEAR STAGE %1$d</string>
+    <string name="charm_brass_bell">BRASS BELL</string>
+    <string name="charm_ribbon_knot">RIBBON KNOT</string>
+    <string name="charm_acorn_pin">ACORN PIN</string>
+    <string name="charm_candle_cup">CANDLE CUP</string>
+    <string name="charm_honey_drop">HONEY DROP</string>
+    <string name="charm_paper_lantern">PAPER LANTERN</string>
+    <string name="charm_clover_tag">CLOVER TAG</string>
+    <string name="charm_copper_key">COPPER KEY</string>
+    <string name="charm_sugar_star">SUGAR STAR</string>
+    <string name="charm_wood_whistle">WOOD WHISTLE</string>
+    <string name="charm_amber_bead">AMBER BEAD</string>
+    <string name="charm_gold_crown">GOLD CROWN</string>
+
+    <string name="keeper_name">KEEPER NAME</string>
+    <string name="default_keeper">POT KEEPER</string>
+    <string name="section_lifetime">LIFETIME</string>
+    <string name="section_settings">SETTINGS</string>
+    <string name="setting_sound">SOUND CUES</string>
+    <string name="setting_haptics">HAPTICS</string>
+    <string name="setting_reduced_motion">REDUCED MOTION</string>
+    <string name="state_on">on</string>
+    <string name="state_off">off</string>
+
+    <string name="confirm_reset_title">RESET EVERYTHING?</string>
+    <string name="confirm_reset_body">Every charm, score and daily goal goes back to the start of the parade.</string>
+
+    <string name="cd_logo">Piggy Parade crest</string>
+    <string name="cd_pause">Pause the parade</string>
+    <string name="cd_settings">Keeper profile and settings</string>
+    <string name="cd_close">Close panel</string>
+    <string name="cd_coin">Falling parade coin</string>
+    <string name="cd_charm">Parade charm medal</string>
+    <string name="cd_lives">Piggies left</string>
+    <string name="cd_pot_gold">Gold pot, accepts gold coins</string>
+    <string name="cd_pot_clay">Clay pot, accepts clay coins</string>
+    <string name="cd_pot_leaf">Leaf pot, accepts leaf coins</string>
+    <string name="state_pot_ready">ready</string>
+    <string name="state_pot_correct">correct pot</string>
+    <string name="state_pot_missed">wrong pot</string>
+    <string name="state_charm_locked">locked</string>
+    <string name="state_charm_unlocked">unlocked</string>
+</resources>
